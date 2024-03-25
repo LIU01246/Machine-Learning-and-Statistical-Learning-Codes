@@ -3,7 +3,9 @@ This repository contains some coding exercises about the fundamentals of machine
 
 See the Programming Assignment part for the descriptions of the coding tasks in each hw.pdf. In the file with codes, you can find README files for detailed steps on how to run my codes and get the results. 
 
-HW1: Consider three methods from the machine learning library scikit-learn: LinearSVC2, SVC3, and LogisticRegression4. Write code to perform k-fold cross-validation. 
+HW1: 
+        
+    Consider three methods from the machine learning library scikit-learn: LinearSVC2, SVC3, and LogisticRegression4. Write code to perform k-fold cross-validation. 
 
 HW2: 
 
@@ -13,7 +15,9 @@ HW2:
     
     Q4: k-means for image segmentation.
 
-HW3: Use the Digits dataset to classify handwriting ‘3’ vs ‘8’. The task is to build three classifiers: (a) bagging, (b) random forests, and (c) adaboost.
+HW3: 
+
+    Use the Digits dataset to classify handwriting ‘3’ vs ‘8’. The task is to build three classifiers: (a) bagging, (b) random forests, and (c) adaboost.
 
 HW4: 
 
