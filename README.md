@@ -5,8 +5,8 @@ See the Programming Assignment part for the descriptions of the coding tasks in 
 
 HW1: Consider three methods from the machine learning library scikit-learn: LinearSVC2, SVC3, and LogisticRegression4. Write code to perform k-fold cross-validation. 
 
-HW2: 
-    Q2: Compare the performance of three models:(i) MultiGaussClassify with full class covariance matrices, (ii) MultiGaussClassify with diagonal covariance matrices, and (iii) LogisticRegression3. Write codes to do a 5-fold cross-validation. 
+HW2: \\
+    Q2: Compare the performance of three models:(i) MultiGaussClassify with full class covariance matrices, (ii) MultiGaussClassify with diagonal covariance matrices, and (iii) LogisticRegression3. Write codes to do a 5-fold cross-validation. \\
     Q3: Write code to implement Principal Component Analysis (PCA) and apply it to the Digits dataset by projecting the data to R2 using the first two principal components.
     Q4: k-means for image segmentation.
 
